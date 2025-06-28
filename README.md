@@ -1,2 +1,2 @@
-📄 [Download My CV](https://github.com/rojalxyz/Rojfolio/raw/main/my%20cv.docx)
+📄 [Download My CV](https://github.com/rojalxyz/Rojfolio/raw/main/Rojancv.pdf)
 "# rojanrayaskhetri.github.io" 
